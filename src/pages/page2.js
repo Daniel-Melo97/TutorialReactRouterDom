@@ -1,8 +1,8 @@
 import React from 'react';
 
-export default function Page1() {
+export default function Page2() {
     return (
-      <h1>Página principal</h1>
+      <h1>Página 2</h1>
     );
   }
   
