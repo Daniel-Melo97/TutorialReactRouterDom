@@ -1,6 +1,6 @@
 # Acompanhe o tutorial para aprender na prática o funcionamento da biblioteca react-router-dom
 
-Link para tutorial: indisponível por enquanto(atualizarei após fazer o vídeo).
+Link para tutorial: https://youtu.be/6m8CreFl5oI
 
 ### Tutoriais auxiliares:
 
